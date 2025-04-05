@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- !!! ERROR 1: Root element changed from Hotels to Hotel !!!-->
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:noNamespaceSchemaLocation="https://[YourGitHubUsername].github.io/[RepoName]/Hotels.xsd">
+        xsi:noNamespaceSchemaLocation="https://theoxenakis.github.io/cse445a4/Hotels.xsd">
 
   <!-- Hotel 1 - Tempe Westin !!! ERROR 2: Missing Rating attribute !!! -->
   <Hotel>
