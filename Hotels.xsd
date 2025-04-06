@@ -4,8 +4,7 @@
   <xsd:element name="Hotels">
     <xsd:complexType>
       <xsd:sequence>
-        <!-- Each "Hotel" can appear multiple times -->
-        <xsd:element name="Hotel" maxOccurs="unbounded">
+        <xsd:element name="Hotel">
           <xsd:complexType>
             <xsd:sequence>
               <!-- Child elements in order -->
@@ -20,12 +19,12 @@
                     <xsd:element name="State" type="xsd:string" />
                     <xsd:element name="Zip" type="xsd:integer" />
                   </xsd:sequence>
-                  <!-- Optional attribute for Address -->
+                  <!-- Required attribute for Address -->
                   <xsd:attribute name="NearstAirport" type="xsd:string" use="required" />
                 </xsd:complexType>
               </xsd:element>
             </xsd:sequence>
-            <!-- Required attribute for Hotel -->
+            <!-- Optional attribute for Hotel -->
             <xsd:attribute name="Rating" type="xsd:decimal" use="optional" />
           </xsd:complexType>
         </xsd:element>
