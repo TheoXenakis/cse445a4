@@ -7,7 +7,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -34,7 +34,7 @@
     <Name>Marriott</Name>
     <Phone>480-897-0001</Phone>
     <Phone>480-897-0002</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>2000</Number>
       <Street>W Happy Valley Rd</Street>
       <City>Phoenix</City>
@@ -47,7 +47,7 @@
   <Hotel Rating ="4.3">
     <Name>Renaissance</Name>
     <Phone>602-333-0000</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>100</Number>
       <Street>N 1st Street</Street>
       <City>Phoenix</City>
@@ -61,7 +61,7 @@
     <Name>Hyatt Regency Scottsdale Resort and Spa</Name>
     <Phone>480-444-1234</Phone>
     <Phone>480-444-1235</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>7500</Number>
       <Street>E Doubletree Ranch Rd</Street>
       <City>Scottsdale</City>
@@ -88,7 +88,7 @@
     <Name>JW Marriott Phoenix Desert Ridge</Name>
     <Phone>480-293-5000</Phone>
     <Phone>480-293-5001</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>5350</Number>
       <Street>E Marriott Dr</Street>
       <City>Phoenix</City>
@@ -101,7 +101,7 @@
   <Hotel Rating="4.6">
     <Name>Arizona Biltmore</Name>
     <Phone>602-955-6600</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>2400</Number>
       <Street>E Missouri Ave</Street>
       <City>Phoenix</City>
@@ -128,7 +128,7 @@
     <Name>Four Seasons Resort Scottsdale</Name>
     <Phone>480-515-5700</Phone>
     <Phone>480-515-5701</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>10600</Number>
       <Street>E Crescent Moon Dr</Street>
       <City>Scottsdale</City>
@@ -141,7 +141,7 @@
   <Hotel Rating="4.6">
     <Name>Omni Scottsdale Resort and Spa</Name>
     <Phone>480-627-3200</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>4949</Number>
       <Street>E Lincoln Dr</Street>
       <City>Scottsdale</City>
