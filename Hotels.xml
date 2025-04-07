@@ -7,7 +7,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearstAirport="Sky Habor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -28,7 +28,7 @@
       <Zip>85012</Zip>
     </Address>
   </Hotel>
-  
+
   <!-- Hotel 2 - Phoenix Marriott-->
   <Hotel Rating="4.0">
     <Name>Marriott</Name>
@@ -42,7 +42,7 @@
       <Zip>85085</Zip>
     </Address>
   </Hotel>
-  
+
   <!-- Hotel 3 - Renaissance Marriott-->
   <Hotel Rating ="4.3">
     <Name>Renaissance</Name>
@@ -55,7 +55,7 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-  
+
   <!-- Hotel 4 - Hyatt Regency Scottsdale -->
   <Hotel Rating="4.6">
     <Name>Hyatt Regency Scottsdale Resort and Spa</Name>
